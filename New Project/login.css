@@ -1,0 +1,92 @@
+#back_pic{
+	height:940px;
+	width:100%;
+	position:absolute;
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	padding:0%;
+	filter:contrast(130%);
+}
+#back_tab{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:500px;
+	height:800px;
+	background-color:#ECECEC;
+	position:relative;
+	top:65px;
+	border:3px solid black;
+	border-radius:15px;
+	opacity:90%;
+}
+#logo{
+	position:relative;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	display:block;
+	height:350px;
+}
+#login{
+	border:2px solid #009253;
+	border-radius:25px;
+	padding:10px;
+	width:350px;
+	height:30px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#passwd{
+	border:2px solid #009253;
+	border-radius:25px;
+	padding:10px;
+	width:350px;
+	height:30px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#enterance{
+	margin-left:180px;
+	position:absolute;
+	margin-top:30px;
+	text-decoration:none;
+	color:white;
+	background-color:#00C24C;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:10px;
+	padding-bottom:10px;
+	border:2px solid #009253;
+	border-radius:20px;
+}
+#forgot_pass{
+	position:absolute;
+	right:40px;
+	text-decoration:none;
+	color:grey;
+	filter:brightness(120%);
+	margin-top:10px;
+}
+#line{
+	margin-top:130px;
+}
+#reg{
+	margin-left:145px;
+	position:absolute;
+	margin-top:50px;
+	text-decoration:none;
+	color:#00C24C;
+	padding-left:70px;
+	padding-right:70px;
+	padding-top:20px;
+	padding-bottom:20px;
+	border:2px solid #009253;
+	border-radius:30px;	
+	

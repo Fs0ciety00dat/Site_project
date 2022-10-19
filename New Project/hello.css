@@ -1,0 +1,156 @@
+body{
+	width:auto;
+	margin:auto;
+}
+.titles{
+	color:white;
+	display: inline-block;
+	margin-top:20px;
+}
+#head{
+	background-color:#007C0C;
+	width:100%;
+	height:121px;
+	border-bottom:2px solid black;
+}
+#main{
+	position:absolute;
+	font-size:50px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	text-decoration:none;
+	font-family:Arial Black;
+}
+#account{
+	font-size:22px;
+	text-decoration:none;
+	margin-right:400px;
+	margin-top:50px;
+}
+#account:hover{
+	opacity:60%;
+}
+#order{
+	font-size:22px;
+	margin-right:300px;
+	text-decoration:none;
+	margin-top:50px;
+}
+#order:hover{
+	opacity:60%;
+}
+#about{
+	font-size:22px;
+	padding:10px;
+	background-color:#00BFCB;
+	border-radius:9px;
+	text-decoration:none;
+	margin-right:150px;
+}
+.little{
+	color:white;
+	display: inline-block;
+	margin-top:40px;
+	position:absolute;
+	right:0;
+	
+}
+#about:hover{
+	opacity:60%;
+}
+#place{
+	background-color:#00CD3F;
+	height:500px;
+	width:100%;
+
+}
+#blackline{
+	background-color:#282828;
+	height:20px;
+	opacity:90%;
+}
+#beginning_one{
+	margin-left:700px;
+	margin-top:-1000px;
+	font-size:40px;
+	color:white;
+	font-family:Arial Black;
+}
+#lor{
+	font-family:Arial Black;
+	font-size:30px;
+	color: white;
+	opacity:90%;
+}
+.buttons{
+	font-size:24px;
+text-align:center;
+}
+#but_one{
+	color:white;
+	text-decoration:none;
+	padding:20px;
+	background-color:#00BFCB;
+	border-radius:7px;
+}
+#but_two{
+	color:white;
+	text-decoration:none;
+	margin-left:10px;
+	padding:20px;
+	border:2px solid white;
+	border-radius:7px;
+}
+#but_one:hover{
+	opacity:60%;
+}
+#but_two:hover{
+	opacity:60%;
+}
+#party{
+	margin-top:50px;
+	width:100%;
+	border-bottom:50px solid black;
+	filter:brightness(70%)
+	saturate(200%);
+}
+#finally{
+	width:100%;
+	background-color:white;
+	height:300px;
+	filter:brightness(85%);
+}
+#under{
+	width:100%;
+	height:100px;
+	background-color:#282828;
+}
+.unders{
+	display:inline-block;
+	color:white;
+	font-size:20px;
+	font-family:Arial Black;
+}
+#phone{
+	margin-left:300px;
+	padding-top:20px;
+}
+#email{
+	position:absolute;
+	right:0;
+	margin-right:300px;
+	padding-top:20px;
+}
+#test{
+	font-size:30px;
+	color:Black;
+	font-family:Arial Black;
+	margin-top:0px;
+	text-align:center;
+	vertical-align:middle;
+	padding-top:70px;
+		
+
+	
+	

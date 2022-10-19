@@ -1,0 +1,103 @@
+#back_pic{
+	height:940px;
+	width:100%;
+	position:absolute;
+	display:block;
+    margin-left: auto;
+    margin-right: auto;
+	padding:0%;
+	filter:contrast(130%);
+}
+#back_tab{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:500px;
+	height:800px;
+	background-color:#ECECEC;
+	position:relative;
+	top:65px;
+	border:3px solid black;
+	border-radius:15px;
+	opacity:90%;
+}
+#logo{
+	position:relative;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	display:block;
+	height:250px;
+}
+#name{
+	border:2px solid #009253;
+	border-radius:10px;
+	padding:10px;
+	width:350px;
+	height:20px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#Phone{
+	border:2px solid #009253;
+	border-radius:10px;
+	padding:10px;
+	width:350px;
+	height:20px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#Email{
+	border:2px solid #009253;
+	border-radius:10px;
+	padding:10px;
+	width:350px;
+	height:20px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#passwd{
+	border:2px solid #009253;
+	border-radius:10px;
+	padding:10px;
+	width:350px;
+	height:20px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#passwd_two{
+	border:2px solid #009253;
+	border-radius:10px;
+	padding:10px;
+	width:350px;
+	height:20px;
+	display:block;
+	margin-left:70px;
+	margin-top:20px;
+	background-color:white;
+}
+#enterance{
+	margin-left:150px;
+	position:absolute;
+	margin-top:30px;
+	text-decoration:none;
+	color:white;
+	background-color:#00C24C;
+	padding-left:70px;
+	padding-right:70px;
+	padding-top:15px;
+	padding-bottom:15px;
+	border:2px solid #009253;
+	border-radius:20px;
+}
+#enterance:hover{
+	filter:contrast(150%);
